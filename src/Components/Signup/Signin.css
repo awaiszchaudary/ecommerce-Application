@@ -1,0 +1,45 @@
+.image_div{
+    background-image: url('https://media.istockphoto.com/id/1279862993/photo/firewall-and-internet-security-concept-secured-access.jpg?s=170667a&w=0&k=20&c=SSDNzV0hPh66J02mRnDcUitZQzES1jaPnjXvnmembXA=');
+    background-size: cover;
+    height: 300px;
+}
+
+.form_style{
+    box-shadow: 6px 6px 6px gray;
+}
+
+.container_div{
+    margin-top: 200px;
+    
+}
+
+.cart_logo{
+    color: black;
+    font-size: 70px;
+    padding-left: 30px;
+    
+}
+
+.cont{
+    display: flex;
+    justify-content: center;
+}
+
+.button{
+    display: flex;
+    justify-content: center;
+}
+
+.btnstyle{
+    background-color: orange;
+    border: 1px solid orange;
+    border-radius: 7px;
+    padding-left: 30px;
+    padding-right: 30px;
+    color: white;
+}
+
+.login{
+    color: red;
+    font-size: 25px;
+}
